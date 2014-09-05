@@ -1,0 +1,7 @@
+/dist/
+/chatLog.txt
+
+nbproject/private/
+build/
+dist/
+*.dll
